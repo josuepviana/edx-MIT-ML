@@ -5,11 +5,10 @@ Codigo relacionado ao curso MITx 6.86x Machine Learning with Python - From Linea
 
 ## Estrutura do Projeto
 
-- `project0/`
+- `projeto0/`
   - `main.py`: Contém funções para operações com Numpy e uma rede neural.
   - `debug.py`: Contém uma função para calcular a soma de métricas e um script principal para testar essa função.
   - `test.py`: Contém funções para verificar a instalação de dependências como Numpy, SciPy, Matplotlib, PyTorch e tqdm.
-- `project1/`: AINDA NÃO INICIADO
 - `README.md`: Este arquivo.
 
 ## Dependências
