@@ -27,4 +27,4 @@ As seguintes bibliotecas Python são necessárias para executar este projeto:
 Para instalar as dependências, você pode usar o pip:
 
 ```sh
-pip install numpy scipy matplotlib torch tqdm"# edx-MIT-ML" 
+pip install numpy scipy matplotlib torch tqdm
